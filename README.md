@@ -1,2 +1,3 @@
 # odin-recipes
 First project!
+This project is to practice HTML skills so far. It will be building a website index page with links to some recipes. In this project I have learned ...
