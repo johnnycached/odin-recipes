@@ -13,3 +13,10 @@ h1 {
     font-size: 25px;
     color: black;
   }
+
+.img-shell, 
+.img-tots, 
+.img-ribs {
+    height: 500px;
+    width: auto;
+  }
