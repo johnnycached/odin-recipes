@@ -2,6 +2,7 @@
     background-color:beige;
     font-family: 'Courier New', Courier, monospace;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 h1 {
@@ -10,16 +11,15 @@ h1 {
     font-size: 100px;
   }
 
-a {
-  color: white;
-  font-weight: bold;
+#index-button {
   background-color: brown;
-  text-decoration: none;
-}  
+  color: white;
+}
 
 .index-recipe {
     font-size: 25px;
-    color: black;
+    color: white;
+    font-weight: bold;
     background-color: brown;
     padding: 10px;
     margin: 0px 15px;
