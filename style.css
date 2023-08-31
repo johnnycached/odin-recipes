@@ -1,17 +1,38 @@
 * {
     background-color:beige;
     font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
 }
 
 h1 {
-    color: rgb(195, 0, 0);
+    color: brown;
     text-align: center;
     font-size: 100px;
   }
 
+a {
+  color: white;
+  font-weight: bold;
+  background-color: brown;
+  text-decoration: none;
+}  
+
 .index-recipe {
     font-size: 25px;
     color: black;
+    background-color: brown;
+    padding: 10px;
+    margin: 0px 15px;
+  }
+
+  .index-container {
+    text-align: center;
+  }
+
+  .index-img {
+    margin-top: 30px;
+    width: 850px;
+    height: auto;
   }
 
 .img-shell, 
