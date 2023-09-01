@@ -38,6 +38,8 @@ h1 {
 .img-shell, 
 .img-tots, 
 .img-ribs {
+    display: block;
     height: 500px;
     width: auto;
+    margin: 0 auto;
   }
