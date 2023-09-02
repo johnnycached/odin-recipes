@@ -1,15 +1,15 @@
 * {
-    background-color:beige;
-    font-family: 'Courier New', Courier, monospace;
-    box-sizing: border-box;
-    text-decoration: none;
+  background-color:beige;
+  font-family: 'Courier New', Courier, monospace;
+  box-sizing: border-box;
+  text-decoration: none;
 }
 
 h1 {
-    color: brown;
-    text-align: center;
-    font-size: 100px;
-  }
+  color: brown;
+  text-align: center;
+  font-size: 100px;
+}
 
 #index-button {
   background-color: brown;
@@ -17,29 +17,31 @@ h1 {
 }
 
 .index-recipe {
-    font-size: 25px;
-    color: white;
-    font-weight: bold;
-    background-color: brown;
-    padding: 10px;
-    margin: 0px 15px;
-  }
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  background-color: brown;
+  padding: 10px;
+  margin: 0px 15px;
+}
 
-  .index-container {
-    text-align: center;
-  }
+.index-container {
+  text-align: center;
+}
 
-  .index-img {
-    margin-top: 30px;
-    width: 850px;
-    height: auto;
-  }
+.index-img {
+  margin-top: 30px;
+  width: 850px;
+  height: auto;
+  filter: drop-shadow(2px 4px 6px black);
+}
 
 .img-shell, 
 .img-tots, 
 .img-ribs {
-    display: block;
-    height: 500px;
-    width: auto;
-    margin: 0 auto;
-  }
+  display: block;
+  height: 500px;
+  width: auto;
+  margin: 0 auto;
+  filter: drop-shadow(2px 4px 6px black);
+}
